@@ -111,6 +111,7 @@ To run RL tuning in the Crafter dataset, execute:
 sh scripts/crafter/train_rl.sh
 ```
 
+--- 
 **Citation:**
 
 ```bibtex
