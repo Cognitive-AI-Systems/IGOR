@@ -4,19 +4,7 @@ In this study, we address the challenge of enabling an artificial intelligence a
 
 **Paper:** [Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments](https://arxiv.org/abs/2407.09287)
 
-**Citation:**
 
-```bibtex
-@article{volovikova2024instruction,
-      title={Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments}, 
-      author={Zoya Volovikova and Alexey Skrynnik and Petr Kuderov and Aleksandr I. Panov},
-      year={2024},
-      eprint={2407.09287},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2407.09287}, 
-}
-```
 
 ## Installation
 
@@ -123,4 +111,17 @@ To run RL tuning in the Crafter dataset, execute:
 sh scripts/crafter/train_rl.sh
 ```
 
+**Citation:**
+
+```bibtex
+@article{volovikova2024instruction,
+      title={Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments}, 
+      author={Zoya Volovikova and Alexey Skrynnik and Petr Kuderov and Aleksandr I. Panov},
+      year={2024},
+      eprint={2407.09287},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2407.09287}, 
+}
+```
 
